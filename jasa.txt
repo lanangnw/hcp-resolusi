@@ -1,7 +1,8 @@
 home care phone, suatu instansi yang bergerak dalam jasa service handphone dan kebutuhan jasa teknologi lainnya 
 - Service handphone 
-- Pembuatan website respostive 
+- Pembuatan website respontive 
 - desain 
 
 - top up 
 - aksesoris hp
+- konsultasi
